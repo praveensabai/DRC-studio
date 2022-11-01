@@ -1,0 +1,13 @@
+body{
+    background-image: url("../IMG/hbg2.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    color: white;
+    opacity:0.9em;
+}
+h3{
+    color: #25aae1;
+}
